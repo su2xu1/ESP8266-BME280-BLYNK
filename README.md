@@ -7,10 +7,10 @@ This is one of my first ESP8266  project.<br>
 <br>
 
 ## Installation
-Install ESP8266 library through Arduino IDE Board Manager.
-Install BME280 library throgh Arduino Library Manager.
-Install Blynk library through Blynk GitHUB,
-Validate & Upload ino0file with Arduino-IDE
+Install ESP8266 library through Arduino IDE Board Manager.<br>
+Install BME280 library throgh Arduino Library Manager.<br>
+Install Blynk library through Blynk GitHUB.<br>
+Validate & Upload ino0file with Arduino-IDE.<br>
 
 ## Usage
 n/a
