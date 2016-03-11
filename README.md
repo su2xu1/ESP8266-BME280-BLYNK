@@ -1,28 +1,17 @@
 # ESP8266-BME280-BLYNK
 
-This project is ESP8266 project.<br>
--Connecting ESP8266 to Wi-Fi Network.
--Sensing Temprature,Humidity,Pressure By BME280 made by Bosch.<br>
--Sending Sensed data to Blynk server through Wi-Fi Network.<br>
+This project is thermostat project using ESP8266 and RME280.<br>
+-Connecting ESP8266 to Wi-Fi Network.<br> 
+-Sensing Temprature,Humidity,Pressure By BME280 made by Bosch<br>
+-Sending Sensed data to Blynk server through Wi-Fi Network<br>
 -Visualizing those infrmation by Blynk<br>
 -Using Blynk client Apps on Arduino, you can find those environment data.<br>
 
-### Installation
--Install ESP8266 library through Arduino IDE Board Manager.<br>
--Install Arduino IDE 1.6.5
- --In Preferences>Additional Board Manager cell,
-   put "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
- --Open Boards Manager Tools>Board and install eso8266 platform
- --to change Baord setting to ESP8266, from Tool>Board>Generic,
-   select ESP8266module.
-
--Install BME280 library throgh Arduino Library Manager.<br>
- --Download BME280.zip file from and install into the folder for Arduino \
-library.
-
--Install Blynk library through Blynk GitHUB.<br>
- --download Blynk library"Blynk v0.3.1.zip" from .
--Validate & Upload ino file from  Arduino-IDE.<br>
+## Installation
+1. install [Arduino IDE](https://www.arduino.cc/en/Main/Software)<br>
+1. Install [ESP8266 library](https://github.com/esp8266/Arduino)<br>
+1. Install [BME280 library](https://github.com/embeddedadventures/BME280)<br>
+1. Install [Blynk library](https://github.com/blynkkk)<br>
 
 ### Usage
 n/a
