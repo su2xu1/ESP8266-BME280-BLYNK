@@ -8,10 +8,11 @@ This project is thermostat project using ESP8266 and RME280.<br>
 -Using Blynk client Apps on Arduino, you can find those environment data.<br>
 
 ## Installation
-1. install [Arduino IDE](https://www.arduino.cc/en/Main/Software)<br>
-1. Install [ESP8266 library](https://github.com/esp8266/Arduino)<br>
-1. Install [BME280 library](https://github.com/embeddedadventures/BME280)<br>
-1. Install [Blynk library](https://github.com/blynkkk)<br>
+Install following Tools and Libraries.<br>
+1. [Arduino IDE](https://www.arduino.cc/en/Main/Software)<br>
+1. [ESP8266 library](https://github.com/esp8266/Arduino)<br>
+1. [BME280 library](https://github.com/embeddedadventures/BME280)<br>
+1. [Blynk library](https://github.com/blynkkk)<br>
 
 ### Usage
 n/a
@@ -26,5 +27,5 @@ ESP8266 core files are licensed under LGPL.
 2016.03.06 v-0.1 Version
 
 ### Credits
- Hithoshi Momma, March 2016
+ Hitoshi Momma, March 2016
 
