@@ -1,6 +1,6 @@
 # ESP8266-BME280-BLYNK
 
-This project is thermostat project using ESP8266 and BME280.<br>
+This project is the environment telemetry project using ESP8266 and BME280.<br>
 -Connecting ESP8266 to Wi-Fi Network.<br> 
 -Sensing Temprature,Humidity,Pressure By BME280 made by Bosch<br>
 -Sending Sensed data to Blynk server through Wi-Fi Network<br>
